@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python, java, javascript**
 
-- 💬 Ask me about **flutter, c++, c,java,python**
+- 💬 Ask me about **flutter, c++, c, java, python**
 
 - 📫 How to reach me **krajikshan@hotmail.com**
 
